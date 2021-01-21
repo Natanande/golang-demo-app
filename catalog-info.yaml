@@ -6,6 +6,7 @@ metadata:
   annotations: 
     github.com/project-slug: natanande/golang-demo-app
     backstage.io/github-actions-id: natanande/golang-demo-app
+    backstage.io/kubernetes-id: golang-demo-app
 spec:
   type: service
   lifecycle: experimental
